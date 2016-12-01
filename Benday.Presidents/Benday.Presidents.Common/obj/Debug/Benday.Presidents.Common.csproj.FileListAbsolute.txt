@@ -1,0 +1,5 @@
+C:\Ashir\Tfs\MyFirstProject\Benday.Presidents\Benday.Presidents.Common\bin\Debug\Benday.Presidents.Common.dll
+C:\Ashir\Tfs\MyFirstProject\Benday.Presidents\Benday.Presidents.Common\bin\Debug\Benday.Presidents.Common.pdb
+C:\Ashir\Tfs\MyFirstProject\Benday.Presidents\Benday.Presidents.Common\obj\Debug\Benday.Presidents.Common.csprojResolveAssemblyReference.cache
+C:\Ashir\Tfs\MyFirstProject\Benday.Presidents\Benday.Presidents.Common\obj\Debug\Benday.Presidents.Common.dll
+C:\Ashir\Tfs\MyFirstProject\Benday.Presidents\Benday.Presidents.Common\obj\Debug\Benday.Presidents.Common.pdb

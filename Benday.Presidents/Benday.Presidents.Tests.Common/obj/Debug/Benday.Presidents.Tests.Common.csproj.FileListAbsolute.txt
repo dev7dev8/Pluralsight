@@ -1,0 +1,6 @@
+C:\Ashir\Tfs\MyFirstProject\Benday.Presidents\Benday.Presidents.Tests.Common\bin\Debug\Benday.Presidents.Tests.Common.dll
+C:\Ashir\Tfs\MyFirstProject\Benday.Presidents\Benday.Presidents.Tests.Common\bin\Debug\Benday.Presidents.Tests.Common.pdb
+C:\Ashir\Tfs\MyFirstProject\Benday.Presidents\Benday.Presidents.Tests.Common\obj\Debug\Benday.Presidents.Tests.Common.TestResources.resources
+C:\Ashir\Tfs\MyFirstProject\Benday.Presidents\Benday.Presidents.Tests.Common\obj\Debug\Benday.Presidents.Tests.Common.csproj.GenerateResource.Cache
+C:\Ashir\Tfs\MyFirstProject\Benday.Presidents\Benday.Presidents.Tests.Common\obj\Debug\Benday.Presidents.Tests.Common.dll
+C:\Ashir\Tfs\MyFirstProject\Benday.Presidents\Benday.Presidents.Tests.Common\obj\Debug\Benday.Presidents.Tests.Common.pdb

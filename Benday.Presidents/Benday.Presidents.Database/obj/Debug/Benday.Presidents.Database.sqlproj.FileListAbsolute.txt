@@ -1,0 +1,5 @@
+C:\Ashir\Tfs\MyFirstProject\Benday.Presidents\Benday.Presidents.Database\bin\Debug\Benday.Presidents.Database.dacpac
+C:\Ashir\Tfs\MyFirstProject\Benday.Presidents\Benday.Presidents.Database\bin\Debug\Benday.Presidents.Database.dll
+C:\Ashir\Tfs\MyFirstProject\Benday.Presidents\Benday.Presidents.Database\bin\Debug\Benday.Presidents.Database.pdb
+C:\Ashir\Tfs\MyFirstProject\Benday.Presidents\Benday.Presidents.Database\obj\Debug\Benday.Presidents.Database.dll
+C:\Ashir\Tfs\MyFirstProject\Benday.Presidents\Benday.Presidents.Database\obj\Debug\Benday.Presidents.Database.pdb

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-Benday.Presidents.WebUI-20160224033958.mdf;Initial Catalog=aspnet-Benday.Presidents.WebUI-20160224033958;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Ashir\\Tfs\\MyFirstProject\\Benday\.Presidents\\Benday\.Presidents\.WebUI\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="(default)-Web.config Connection String" description="(default) Connection String used in web.config by the application to access the database." defaultValue="Server=(local); Database=Benday.Presidents.Database; Integrated Security=true;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Ashir\\Tfs\\MyFirstProject\\Benday\.Presidents\\Benday\.Presidents\.WebUI\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='(default)']/@connectionString" />
+  </parameter>
+</parameters>
